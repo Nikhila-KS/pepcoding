@@ -20,6 +20,7 @@ Explanation: 'e' must have been pressed twice, but it was not in the typed outpu
 */
 #include <bits/stdc++.h>
 using namespace std;
+
 class Solution {
 public:
     bool isLongPressedName(string name, string typed) {
